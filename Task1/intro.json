@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Swastik Mohapatra",
+    "github_handle":"SwastikMo",
+    "hacktoberfest_round":"first",
+    "role":["contributor"]
   }
 ]
