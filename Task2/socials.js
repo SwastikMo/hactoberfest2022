@@ -115,104 +115,107 @@ dibyajittripathy_socials = {
     "telegram_handle": "SnrAndy",
 },
 	 petraAG_socials = {
-    "twitter_handle": "agienpetra",
-    "likedin_handle": "agienpetra",
-    "facebook": "agienpetra ",
-    "telegram_handle": "PDoc",
+           "twitter_handle": "agienpetra",
+           "likedin_handle": "agienpetra",
+           "facebook": "agienpetra ",
+           "telegram_handle": "PDoc",
 },
-{
-  VaibhavArora314_socials = {
-    "twitter_handle": "",
-    "likedin_handle": "Vaibhav Arora",
-    "facebook": "Vaibhav Arora",
-    "telegram_handle": "vaibhav"
-  }
-},	
-{
+VaibhavArora314_socials = {
+	  "twitter_handle": "",
+	  "likedin_handle": "Vaibhav Arora",
+	  "facebook": "Vaibhav Arora",
+	  "telegram_handle": "vaibhav"
+          },	
 impetus007_socials = {
-  "twitter_handle": "Vishal_it_is",
-  "likedin_handle": "impetus",
-  "facebook": "vishal2219singh",
-  "telegram_handle": "",
-},
+	  "twitter_handle": "Vishal_it_is",
+	  "likedin_handle": "impetus",
+	  "facebook": "vishal2219singh",
+	  "telegram_handle": "",
+	  },
 lando-paul = {
-  "twitter_handle": "nasty_poems",
-  "likedin_handle": "lando-momo-paul-junior-76b413229",
-  "facebook": "",
-  "telegram_handle": "Fuckthesystem47",
-},
+	  "twitter_handle": "nasty_poems",
+	  "likedin_handle": "lando-momo-paul-junior-76b413229",
+	  "facebook": "",
+	  "telegram_handle": "Fuckthesystem47",
+	  },
 fisher_socials = {
-  "twitter_handle": "fishermonk0",
-  "likedin_handle": "fishermonk",
-  "facebook": "fishermonk",
-  "telegram_handle": "@fish4443"
-  },
+	  "twitter_handle": "fishermonk0",
+	  "likedin_handle": "fishermonk",
+	  "facebook": "fishermonk",
+	  "telegram_handle": "@fish4443"
+	  },
 SudhanshuSharma_socials= {
-  "twitter_handle": "Sudhanshu226922",
-  "likedin_handle": "Sudhanshu Sharma",
-  "facebook": "",
-  "telegram_handle": "@cpt_n3m0_22",
-},
+	  "twitter_handle": "Sudhanshu226922",
+	  "likedin_handle": "Sudhanshu Sharma",
+	  "facebook": "",
+	  "telegram_handle": "@cpt_n3m0_22",
+	  },
 MahirJain_socials= {
-  "twitter_handle": "",
-  "likedin_handle": "Mahir Jain",
-  "facebook": "",
-  "telegram_handle": "@mahirJain"
-  },
+	  "twitter_handle": "",
+	  "likedin_handle": "Mahir Jain",
+	  "facebook": "",
+	  "telegram_handle": "@mahirJain"
+	  },
 yokwejuste_socials= {
-  "twitter_handle": "yokwejuste",
-  "likedin_handle": "yokwejuste",
-  "facebook": "yokwejuste5013",
-  "telegram_handle": "@googledevz",
-},
+	  "twitter_handle": "yokwejuste",
+	  "likedin_handle": "yokwejuste",
+	  "facebook": "yokwejuste5013",
+	  "telegram_handle": "@googledevz",
+	  },
 adrzxxx_socials= {
-  "twitter_handle": "",
-  "likedin_handle": "aditya-singh-04a74b19a",
-  "facebook": "",
-  "telegram_handle": ""
-  }
+	  "twitter_handle": "",
+	  "likedin_handle": "aditya-singh-04a74b19a",
+	  "facebook": "",
+	  "telegram_handle": ""
+	  }
 MahirJain_socials= {
-  "twitter_handle": "hrishikesh123T",
-  "likedin_handle": "Mahir Jain",
-  "facebook": "",
-  "telegram_handle": "@mahirJain"
-  },
+	  "twitter_handle": "hrishikesh123T",
+	  "likedin_handle": "Mahir Jain",
+	  "facebook": "",
+	  "telegram_handle": "@mahirJain"
+	  },
 hrishikesh_g_socials= {
-    "twitter_handle": "hrishikesh123T",
-    "likedin_handle": "hrishikesh-ghule-16b09822a",
-    "facebook": "Hrishikesh Ghule",
-    "telegram_handle": ""
-    },
+	   "twitter_handle": "hrishikesh123T",
+	   "likedin_handle": "hrishikesh-ghule-16b09822a",
+	   "facebook": "Hrishikesh Ghule",
+	   "telegram_handle": ""
+	  },
 mritul_socials= {
-  "twitter_handle": "mritul___",
-  "likedin_handle": "mritul-senthilkumar",
-  "facebook": "",
-  "telegram_handle": "",
-},
+	  "twitter_handle": "mritul___",
+	  "likedin_handle": "mritul-senthilkumar",
+	  "facebook": "",
+	  "telegram_handle": "",
+	 },
 YashGupta_socials= {
-  "twitter_handle": "yashg_116",
-  "likedin_handle": "yash-gupta-1106",
-  "facebook": "Yash Gupta",
-  "telegram_handle": "",
-  },
+	  "twitter_handle": "yashg_116",
+	  "likedin_handle": "yash-gupta-1106",
+	  "facebook": "Yash Gupta",
+	  "telegram_handle": "",
+	  },
 azohMu_socials= {
-  "twitter_handle": "Azoh",
-  "likedin_handle": "Azoh",
-  "facebook": "Azoh",
-  "telegram_handle": "",
-},
+	  "twitter_handle": "Azoh",
+	  "likedin_handle": "Azoh",
+	  "facebook": "Azoh",
+	  "telegram_handle": "",
+	  },
 isaiah0914_socials= {
-  "twitter_handle": "IsaiahNkemboh",
-  "likedin_handle": "Nkemboh isaiah",
-  "telegram_handle": "@isaiahnkemboh",
-  "instagram": "isaiah_nkemboh",
-  "facebook" : "Isaiah Nkemboh",
-  }, 
+	  "twitter_handle": "IsaiahNkemboh",
+	  "likedin_handle": "Nkemboh isaiah",
+	  "telegram_handle": "@isaiahnkemboh",
+	  "instagram": "isaiah_nkemboh",
+	  "facebook" : "Isaiah Nkemboh",
+	  }, 
 AchaRhaah_socials= {
-  "twitter_handle": "AchaAchubang",
-  "likedin_handle": "Acha Achubang",
-  "telegram_handle": "@Acha Rha'ah",
-  "instagram": "Acha Rha'ah",
-  "facebook" : "Acha Rha'ah",
-}, 
+	  "twitter_handle": "AchaAchubang",
+	  "likedin_handle": "Acha Achubang",
+	  "telegram_handle": "@Acha Rha'ah",
+	  "instagram": "Acha Rha'ah",
+	  "facebook" : "Acha Rha'ah",
+	 }, 
+SwastikMo= {
+	  "twitter_handle":"Swastikmohapa16",
+	  "linkedin_handle":"swastik mohapatra",
+	  "facebook":"swastik mohapatra",
+	  "telgram_handle"=""
+         }
 ] 
